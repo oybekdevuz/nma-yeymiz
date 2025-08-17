@@ -1,4 +1,4 @@
-export const spices = [
+const spices = [
   "Ushbu ovqat aynan bugungi kun uchun mos😊",
   `Bu taom yoqmagan sherigingizni "krug"dan "chopish" kerak 😉`,
   `Oh oh oh ketadiyu 😋`,
@@ -9,3 +9,5 @@ export const spices = [
   `Ko'rvorishli joyi lekin`,
   `Yengil a ham foydali kuch bag'ishlaydi`,
 ];
+
+module.exports = {spices};
