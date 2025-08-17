@@ -25,7 +25,7 @@ try {
         `User started: telegramId:${ctx.from.id} - firstname:${ctx.from.first_name}`
     );
     await ctx.reply(
-        `Assalomu alaykum, yaxshimisiz? Tushunmovchiliklar bo'lsa <a href="">foydalanish bo'yicha qo'llanmani o'qish.</a>`,
+        `Assalomu alaykum, yaxshimisiz? Tushunmovchiliklar bo'lsa <a href="https://telegra.ph/Nima-yeymiz-telegram-botidan-foydalanish-qollanmasi-08-17">foydalanish bo'yicha qo'llanmani o'qish.</a>`,
         {
         parse_mode: "HTML",
         }
@@ -127,7 +127,7 @@ try {
         `User started: telegramId:${ctx.from.id} - firstname:${ctx.from.first_name}`
     );
     await ctx.reply(
-        `Assalomu alaykum, yaxshimisiz? Tushunmovchiliklar bo'lsa <a href="">foydalanish bo'yicha qo'llanmani o'qish</a>`,
+        `Assalomu alaykum, yaxshimisiz? Tushunmovchiliklar bo'lsa <a href="https://telegra.ph/Nima-yeymiz-telegram-botidan-foydalanish-qollanmasi-08-17">foydalanish bo'yicha qo'llanmani o'qish.</a>`,
         {
         parse_mode: "HTML",
         }
